@@ -23,6 +23,8 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+"The derived data sets in the data/ subdirectory are based on research using information obtained from www.projectdatasphere.org, which is maintained by Project Data Sphere, LLC. 
+Neither Project Data Sphere, LLC nor the owner(s) of any information from the web site have contributed to, approved or are in any way responsible for the contents of this code and data set.”  Per the project data sphere user agreement, only registered users of projectdatasphere.org may access the datasets in this repository. 
 
 # About the code
 This is code supporting the publication: 
@@ -47,6 +49,5 @@ Please cite and acknowledge if you use this code in original or modified form. W
 # Questions 
 please contact Dean Bottino: dean.bottino@takeda.com, or LinkedIn
 
-"The derived data sets in the data/ subdirectory are based on research using information obtained from www.projectdatasphere.org, which is maintained by Project Data Sphere, LLC. 
-Neither Project Data Sphere, LLC nor the owner(s) of any information from the web site have contributed to, approved or are in any way responsible for the contents of this code and data set.”
+
  
