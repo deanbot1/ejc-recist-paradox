@@ -1,7 +1,7 @@
 # ejc-recist-paradox
 
 # Disclaimer
-NO WARRANTY BLAH BLAH
+THIS CODE IS AS-IS without any representation of validation beyond reproducing the graphs of the EJC manuscript. <<paste in license>>
 # License
 
 # About the code
